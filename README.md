@@ -1,2 +1,5 @@
 # Yazılım Gelistirme Kampı
- müşteri takibi yapan program
+ Müşteri takibi yapan program
+ Müşteri ekleme, müşterileri listeleme 
+ ve istenilen bir müşteri kaydını
+ silme işlemlerini yapan metodları vardır.
