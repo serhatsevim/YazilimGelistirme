@@ -17,8 +17,8 @@ namespace ClassMetotDemo{
       Musteri musteri_2 = new Musteri();
       musteri_2.MusteriId = 2323232;
       musteri_2.MusteriTCNo = "22222222222";
-      musteri_2.MusteriAd = "Serhat";
-      musteri_2.MusteriSoyad = "SEVİM";
+      musteri_2.MusteriAd = "Sedus";
+      musteri_2.MusteriSoyad = "STABİLUS";
       musteri_2.MusteriTelNo = "05321234567";
       musteri_2.MusteriAdres = "Kızılay Ankara";
       musteri_2.MusteriCinsiyet = "Erkek";
