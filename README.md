@@ -1,2 +1,2 @@
-# Yazılım Geliştirme Kampındaki örnek uygulamalar
+# Yazılım Geliştirici Kampındaki örnek uygulamalar
 -ClassMetotDemo
